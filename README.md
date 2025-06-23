@@ -1,1 +1,2 @@
 # TaskCal
+TaskCal is my first ever project that I have worked on as a website developer and although it is not yet complete, I am still progressing and my skills as well, I will come back to this project and complete it, and maybe the changes would not have been only committed to the locked features (basic features which require some code) or I might give it a whole transformation, stay tuned gorgeous!!! btw I am still working on my github skills so I apoligize for this roundabout way of giving the description.
